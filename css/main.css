@@ -30,9 +30,3 @@ img {
   width: 100%;
 }
 
-dt {
-    float: left;
-    clear: left;
-    width: 8rem;
-    text-transform: uppercase;
-}
