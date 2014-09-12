@@ -36,4 +36,6 @@ img {
 
 .graphic-caption{
     position: absolute;
+    top: 15px;
+    background-color: rgba(0,0,0,0.3)
 }
