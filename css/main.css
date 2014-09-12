@@ -26,16 +26,18 @@ body {
 }
 
 img {
-  display: auto;
+  display: block;
   width: 100%;
 }
 
 .graphic {
     margin: 0;
+    position: relative;
 }
 
 .graphic-caption{
     position: absolute;
-    top: 15px;
-    background-color: rgba(0,0,0,0.3)
+    bottom: 0;
+    background-color: rgba(0,0,0,0.3);
 }
+
