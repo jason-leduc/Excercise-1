@@ -8,6 +8,7 @@ html {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+    /*background colour: #ccc*/
 
   font: normal 100%/1.5 sans-serif;
   -moz-text-size-adjust: 100%;
@@ -30,6 +31,10 @@ img {
   width: 100%;
 }
 
+.dino{
+    background-color: #fff;
+}
+
 .graphic {
     margin: 0;
     position: relative;
@@ -41,3 +46,15 @@ img {
     background-color: rgba(0,0,0,0.3);
 }
 
+.info {
+    float: left;
+    padding: 1em;
+    width: 33.3333%;
+    /*border-right; 1px solid #ccc;*/
+    
+
+    
+    
+    
+    
+    
