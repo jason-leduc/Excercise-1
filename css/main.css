@@ -30,3 +30,10 @@ img {
   width: 100%;
 }
 
+.graphic {
+    margin: 0;
+}
+
+.graphic-caption{
+    position: absolute;
+}
